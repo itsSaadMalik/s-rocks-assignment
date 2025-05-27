@@ -40,47 +40,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAdqorTsZgJBLplzPAG4TzZwZtnXKjAXiY',
-    appId: '1:439816533161:web:1ba1e174b7d8a06125a5b8',
-    messagingSenderId: '439816533161',
-    projectId: 's-rocsks-asng',
-    authDomain: 'fir-rocsks-asng.firebaseapp.com',
-    storageBucket: 's-rocsks-asng.firebasestorage.app',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBv3E8zpVr9y0MyzDrO9TR0UqQ36wdB4cs',
-    appId: '1:439816533161:android:ab2ff58791b5a72e25a5b8',
-    messagingSenderId: '439816533161',
-    projectId: 's-rocsks-asng',
-    storageBucket: 's-rocsks-asng.firebasestorage.app',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCBJGWNTZmEfuxixQtbZsg77FdljHAh2v4',
-    appId: '1:439816533161:ios:57082e58bc150b0a25a5b8',
-    messagingSenderId: '439816533161',
-    projectId: 's-rocsks-asng',
-    storageBucket: 's-rocsks-asng.firebasestorage.app',
-    iosBundleId: 'com.example.sRocksAssignmentProject',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCBJGWNTZmEfuxixQtbZsg77FdljHAh2v4',
-    appId: '1:439816533161:ios:57082e58bc150b0a25a5b8',
-    messagingSenderId: '439816533161',
-    projectId: 's-rocsks-asng',
-    storageBucket: 's-rocsks-asng.firebasestorage.app',
-    iosBundleId: 'com.example.sRocksAssignmentProject',
-  );
-
-  static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAdqorTsZgJBLplzPAG4TzZwZtnXKjAXiY',
-    appId: '1:439816533161:web:d05af7c538e4889225a5b8',
-    messagingSenderId: '439816533161',
-    projectId: 's-rocsks-asng',
-    authDomain: 'fir-rocsks-asng.firebaseapp.com',
-    storageBucket: 's-rocsks-asng.firebasestorage.app',
-  );
+   // I have removed all the keys for privacy ,u can ask me for the apk anytime
 }
