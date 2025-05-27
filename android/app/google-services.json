@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439816533161",
+    "project_id": "s-rocsks-asng",
+    "storage_bucket": "s-rocsks-asng.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439816533161:android:ab2ff58791b5a72e25a5b8",
+        "android_client_info": {
+          "package_name": "com.example.s_rocks_assignment_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv3E8zpVr9y0MyzDrO9TR0UqQ36wdB4cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
