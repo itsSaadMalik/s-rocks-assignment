@@ -1,16 +1,14 @@
 # s_rocks_assignment_project
 
-A new Flutter project.
 
-## Getting Started
+The assignment was simple but did challenged my develpoment abilities a bit.
 
-This project is a starting point for a Flutter application.
+I used MVVM + Clean Arch. for development as the task was really simple and didn't require to create heavy Repositories to fetch data
 
-A few resources to get you started if this is your first Flutter project:
+Used Firestore to keep all 4 the Services(as asked to) and everytime app is restarted this data is loaded from firestore and the background images are uploaded to G-drive  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+(appologies for missing the deadline by 2 hours)
